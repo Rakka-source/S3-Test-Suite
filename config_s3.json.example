@@ -1,0 +1,18 @@
+{
+    "Entorno Pruebas": {
+        "AWS_ACCESS_KEY": "",
+        "AWS_SECRET_KEY": "",
+        "AWS_SESSION_TOKEN": "",
+        "REGION": "",
+        "NOMBRE_BUCKET": "",
+        "ARN_ROL": ""
+    },
+    "Entorno Producción": {
+        "AWS_ACCESS_KEY": "",
+        "AWS_SECRET_KEY": "",
+        "AWS_SESSION_TOKEN": "",
+        "REGION": "",
+        "NOMBRE_BUCKET": "",
+        "ARN_ROL": ""
+    }
+}
